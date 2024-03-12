@@ -1,0 +1,65 @@
+h1 {color: rgb(8, 8, 8);}
+body h1 {text-align: center;}
+body {
+  background-image: url("https://i.pinimg.com/originals/cb/59/e1/cb59e1a7bc188a8c1aacd2ea05622777.gif");
+}
+a{color: rgb(245, 7, 166);}
+a {
+  text-decoration: none;
+}
+iframe{
+  text-align: center;
+  margin: auto;
+  display: block;
+}
+iframe{
+  border: 1px solid black;
+    animation: my-animation 5s infinite;
+
+    @keyframes my-animation { 
+    0% {
+      border-color: rgb(59, 38, 179);
+    }
+    50% {
+      border-color: rgb(22, 157, 235);
+    }
+    iframe{
+      text-align: center;
+      margin: auto;
+      display: block;
+    }
+    iframe{
+      border: 1px solid black;
+        animation: my-animation 5s infinite;
+      }
+    }
+    iframe {
+      border-width: 5px;
+      border-style: solid;
+    }
+    .container-quadro {
+      background-color: rgb(18, 112, 15);
+      width: 1000px;
+      text-align: center;
+      margin: auto;
+      display: block;
+      text-decoration: none;
+    }
+    li{font-size: 25px;}
+    a{font-size: 25px;}
+
+iframe {
+  border-width: 5px;
+  border-style: solid;
+}
+}
+.container-quadro {
+  background-color: rgb(18, 112, 15);
+  width: 1000px;
+  text-align: center;
+  margin: auto;
+  display: block;
+  text-decoration: none;
+}
+li{font-size: 25px;}
+a{font-size: 25px;}

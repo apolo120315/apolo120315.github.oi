@@ -1,0 +1,53 @@
+h1 {
+    color:rgb(247, 12, 255) ;
+}
+h1{  
+  text-align: center;
+}
+body{background-image: url(https://i.pinimg.com/originals/cb/59/e1/cb59e1a7bc188a8c1aacd2ea05622777.gif);}
+p {color: rgb(255, 0, 179);
+  font-size: 25px;
+}
+a{color: aqua;}
+a {
+  text-decoration: none;
+}
+h2{color: rgb(255, 0, 179);
+  font-size: 25px;
+}
+ul{color: rgb(0, 0, 0);
+  font-size: 25px;
+}
+ol{color: rgb(0, 0, 0);
+  font-size: 25px;
+}
+img{
+  border-radius: 10cap;
+  border: 1px solid black;
+    animation: my-animation 5s infinite;
+  }
+
+    @keyframes my-animation {
+    0% {
+      border-color: rgb(59, 38, 179);
+    }
+    50% {
+      border-color: rgb(22, 157, 235);
+    }
+    100% {
+      border-color: rgb(96, 11, 207);
+    }
+}
+img {
+  border-width: 5px;
+  border-style: solid;
+}
+.container-quadro {
+  background-color: rgb(18, 112, 15);
+  width: 1000px;
+  text-align: center;
+  margin: auto;
+  display: block;
+  text-decoration: none;
+  opacity: 0.98;
+}
